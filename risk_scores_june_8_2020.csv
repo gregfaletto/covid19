@@ -1,0 +1,340 @@
+"","Locations","Prediction","New_Infec_Per_Capita","Risk_Category"
+"1","City of Beverly Hills",15,0.00112018656435397,"Medium Risk"
+"2","City of Commerce",34,0.00305774772509797,"High Risk"
+"3","City of Culver City",25,0.00183633189728659,"High Risk"
+"4","City of West Hollywood",36,0.00548969160806489,"High Risk"
+"5","Los Angeles - Alsace",19,0.00139561224193781,"High Risk"
+"6","Los Angeles - Angelino Heights",25,0.00129285484588626,"Medium Risk"
+"7","Los Angeles - Arleta",52,0.00584395779962879,"High Risk"
+"8","Los Angeles - Atwater Village",14,0.00366450613352944,"High Risk"
+"9","Los Angeles - Beverly Crest",8,0.000597432834322119,"Medium Risk"
+"10","Los Angeles - Century Palms/Cove",55,0.00234340215590266,"High Risk"
+"11","Los Angeles - Country Club Park",31,0.00170811444932986,"High Risk"
+"12","Los Angeles - Eagle Rock",30,0.000918026875313889,"Medium Risk"
+"13","Los Angeles - East Hollywood",33,0.0013747062519089,"Medium Risk"
+"14","Los Angeles - Echo Park",31,0.00160314000889897,"High Risk"
+"15","Los Angeles - Elysian Park",17,0.000734103933039006,"Medium Risk"
+"16","Los Angeles - Elysian Valley",24,0.00628201051462189,"High Risk"
+"17","Los Angeles - Encino",16,0.00034478179821811,"Medium Risk"
+"18","Los Angeles - Exposition Park",50,0.00220206280699756,"High Risk"
+"19","Los Angeles - Figueroa Park Square",12,0.000846659308409413,"Medium Risk"
+"20","Los Angeles - Glassell Park",41,0.00331569372857992,"High Risk"
+"21","Los Angeles - Granada Hills",45,0.000827470814018104,"Medium Risk"
+"22","Los Angeles - Hancock Park",37,0.000845913549303311,"Medium Risk"
+"23","Los Angeles - Harbor City",39,0.00165348629495928,"High Risk"
+"24","Los Angeles - Harvard Heights",46,0.00452912030997878,"High Risk"
+"25","Los Angeles - Highland Park",69,0.00122866102268583,"Medium Risk"
+"26","Los Angeles - Hyde Park",29,0.00333441379454989,"High Risk"
+"27","Los Angeles - Koreatown",79,0.00224504571072529,"High Risk"
+"28","Los Angeles - Lake Balboa",40,0.00263159049289461,"High Risk"
+"29","Los Angeles - Lincoln Heights",46,0.00290546176088632,"High Risk"
+"30","Los Angeles - Los Feliz",33,0.00471601069895109,"High Risk"
+"31","Los Angeles - Mar Vista",28,0.00205669172496098,"High Risk"
+"32","Los Angeles - Marina Peninsula",16,0.00139011411237942,"High Risk"
+"33","Los Angeles - Melrose",91,0.0138767204537196,"High Risk"
+"34","Los Angeles - Mid-city",32,0.00176321491543727,"High Risk"
+"35","Los Angeles - Mt. Washington",32,0.00258785851986726,"High Risk"
+"36","Los Angeles - North Hills",69,0.00220620268292059,"High Risk"
+"37","Los Angeles - North Hollywood",78,0.00305428948178652,"High Risk"
+"38","Los Angeles - Northridge",48,0.00101664464065634,"Medium Risk"
+"39","Los Angeles - Pacoima",81,0.00910308811096024,"High Risk"
+"40","Los Angeles - Panorama City",97,0.00279764790820878,"High Risk"
+"41","Los Angeles - Porter Ranch",17,0.00302122890392596,"High Risk"
+"42","Los Angeles - Shadow Hills",14,0.00087090563339054,"Medium Risk"
+"43","Los Angeles - Studio City",38,0.00369425862253606,"High Risk"
+"44","Los Angeles - Sun Valley",59,0.00247917715315269,"High Risk"
+"45","Los Angeles - Sunland",24,0.00149298108581235,"High Risk"
+"46","Los Angeles - Tarzana",40,0.00210508249749893,"High Risk"
+"47","Los Angeles - Thai Town",27,0.00385855420823271,"High Risk"
+"48","Los Angeles - Toluca Lake",25,0.0236895834689311,"High Risk"
+"49","Los Angeles - Toluca Terrace",20,0.00688282624294531,"High Risk"
+"50","Los Angeles - Toluca Woods",19,0.00479664833636849,"High Risk"
+"51","Los Angeles - Valley Glen",49,0.00326732016064923,"High Risk"
+"52","Los Angeles - Valley Village",33,0.0102644557393962,"High Risk"
+"53","Los Angeles - Van Nuys",79,0.00128328812875252,"Medium Risk"
+"54","Los Angeles - Venice",20,0.00173565993896583,"High Risk"
+"55","Los Angeles - Vermont Knolls",25,0.00176387355918628,"High Risk"
+"56","Los Angeles - Vermont Square",38,0.00167356773331814,"High Risk"
+"57","Los Angeles - Vermont Vista",58,0.00503341382300091,"High Risk"
+"58","Los Angeles - Victoria Park",28,0.00154281305100761,"High Risk"
+"59","Los Angeles - View Heights",11,0.00126477764620858,"Medium Risk"
+"60","Los Angeles - Watts",112,0.00537198954464352,"High Risk"
+"61","Los Angeles - Wellington Square",32,0.00176321491543727,"High Risk"
+"62","Los Angeles - West Adams",54,0.0013222596506834,"Medium Risk"
+"63","Los Angeles - West Los Angeles",37,0.00322335717415612,"High Risk"
+"64","Los Angeles - Westchester",26,0.00177240340316539,"High Risk"
+"65","Los Angeles - Westwood",39,0.00143272777183753,"High Risk"
+"66","Los Angeles - Wilmington",74,0.00254880312078595,"High Risk"
+"67","Los Angeles - Wilshire Center",63,0.00144033928665158,"High Risk"
+"68","Los Angeles - Winnetka",27,0.00109954178449063,"Medium Risk"
+"69","Los Angeles - Woodland Hills",23,0.000600378842495267,"Medium Risk"
+"70","Unincorporated - Del Aire",15,0.00102254042490311,"Medium Risk"
+"71","Unincorporated - Kagel/Lopez Canyons",21,0.000785340800103682,"Medium Risk"
+"72","Unincorporated - Lake Manor",11,0.000871576845688884,"Medium Risk"
+"73","Unincorporated - Marina del Rey",18,0.00156387837642685,"High Risk"
+"74","Unincorporated - Rosewood/West Rancho Dominguez",14,0.00102834586248049,"Medium Risk"
+"75","Unincorporated - Santa Monica Mountains",31,0.00198800667211807,"High Risk"
+"76","Unincorporated - Twin Lakes/Oat Mountain",11,0.000871576845688884,"Medium Risk"
+"77","Unincorporated - View Park/Windsor Hills",16,0.00183967657630339,"High Risk"
+"78","Unincorporated - West LA",22,0.00191659075220093,"High Risk"
+"79","City of Agoura Hills",28.1221156186057,NA,NA
+"80","City of Alhambra",123.256474540754,NA,NA
+"81","City of Arcadia",54.8453651952099,NA,NA
+"82","City of Artesia",13.5324250846343,NA,NA
+"83","City of Avalon",0,NA,NA
+"84","City of Azusa",100.915413267986,NA,NA
+"85","City of Baldwin Park",163.810788262612,NA,NA
+"86","City of Bell",158.819224958792,NA,NA
+"87","City of Bell Gardens",134.482156431476,NA,NA
+"88","City of Bellflower",194.598497424407,NA,NA
+"89","City of Bradbury",2.00493131914915,NA,NA
+"90","City of Burbank",281.349937060464,NA,NA
+"91","City of Calabasas",45.249713793306,NA,NA
+"92","City of Carson",277.803228014788,NA,NA
+"93","City of Cerritos",69.6887084879182,NA,NA
+"94","City of Claremont",27.0265250334742,NA,NA
+"95","City of Compton",301.05265657081,NA,NA
+"96","City of Covina",105.537234765567,NA,NA
+"97","City of Cudahy",88.0020141790647,NA,NA
+"98","City of Diamond Bar",40.2168814366142,NA,NA
+"99","City of Downey",306.905573351066,NA,NA
+"100","City of Duarte",82.4852848953631,NA,NA
+"101","City of El Monte",245.559724787786,NA,NA
+"102","City of El Segundo",25.7191938029487,NA,NA
+"103","City of Gardena",178.109242405722,NA,NA
+"104","City of Glendale",681.510634129378,NA,NA
+"105","City of Glendora",74.6036682737487,NA,NA
+"106","City of Hawaiian Gardens",7.93545666879665,NA,NA
+"107","City of Hawthorne",243.367081426398,NA,NA
+"108","City of Hermosa Beach",21.6993404026577,NA,NA
+"109","City of Hidden Hills",0,NA,NA
+"110","City of Huntington Park",205.339823698144,NA,NA
+"111","City of Industry",9.51691640868676,NA,NA
+"112","City of Inglewood",391.960860560019,NA,NA
+"113","City of Irwindale",2.62982918154526,NA,NA
+"114","City of La Canada Flintridge",39.2238946763667,NA,NA
+"115","City of La Habra Heights",6.39161186936043,NA,NA
+"116","City of La Mirada",79.1680909334961,NA,NA
+"117","City of La Puente",60.5451941115224,NA,NA
+"118","City of La Verne",19.8118415862699,NA,NA
+"119","City of Lakewood",105.000091236768,NA,NA
+"120","City of Lancaster",384.117717969314,NA,NA
+"121","City of Lawndale",74.5112077800504,NA,NA
+"122","City of Lomita",37.0829413501827,NA,NA
+"123","City of Lynwood",280.923802546228,NA,NA
+"124","City of Malibu",27.6685219056015,NA,NA
+"125","City of Manhattan Beach",61.7531300158099,NA,NA
+"126","City of Maywood",92.8305622050758,NA,NA
+"127","City of Monrovia",88.9231528488749,NA,NA
+"128","City of Montebello",215.055294577881,NA,NA
+"129","City of Monterey Park",105.104540863268,NA,NA
+"130","City of Norwalk",256.851234597236,NA,NA
+"131","City of Palmdale",463.973357265898,NA,NA
+"132","City of Palos Verdes Estates",34.3695449151628,NA,NA
+"133","City of Paramount",181.056540719982,NA,NA
+"134","City of Pico Rivera",266.15742797632,NA,NA
+"135","City of Pomona",270.152776512698,NA,NA
+"136","City of Rancho Palos Verdes",66.3231674865028,NA,NA
+"137","City of Redondo Beach",105.61852075593,NA,NA
+"138","City of Rolling Hills",0,NA,NA
+"139","City of Rolling Hills Estates",0,NA,NA
+"140","City of Rosemead",57.4611222241399,NA,NA
+"141","City of San Dimas",36.1525965853259,NA,NA
+"142","City of San Fernando",125.127227603222,NA,NA
+"143","City of San Gabriel",58.7880673685741,NA,NA
+"144","City of San Marino",16.3236824075896,NA,NA
+"145","City of Santa Clarita",469.365052236984,NA,NA
+"146","City of Santa Fe Springs",34.320686537431,NA,NA
+"147","City of Santa Monica",187.914086866605,NA,NA
+"148","City of Sierra Madre",6.7656116430343,NA,NA
+"149","City of Signal Hill",10.4742046978424,NA,NA
+"150","City of South El Monte",43.9723636882329,NA,NA
+"151","City of South Gate",315.515171948031,NA,NA
+"152","City of South Pasadena",92.2850387583497,NA,NA
+"153","City of Temple City",83.8843611984298,NA,NA
+"154","City of Torrance",283.549537342027,NA,NA
+"155","City of Vernon",0.335881731272007,NA,NA
+"156","City of Walnut",28.5975294512499,NA,NA
+"157","City of West Covina",180.914841132551,NA,NA
+"158","City of Westlake Village",0,NA,NA
+"159","City of Whittier",178.452373086906,NA,NA
+"160","Los Angeles - Adams-Normandie",31.1344308116532,NA,NA
+"161","Los Angeles - Angeles National Forest",0,NA,NA
+"162","Los Angeles - Baldwin Hills",90.193935354468,NA,NA
+"163","Los Angeles - Bel Air",26.6757647904254,NA,NA
+"164","Los Angeles - Beverlywood",30.1297537969512,NA,NA
+"165","Los Angeles - Boyle Heights",9.67764097634505,NA,NA
+"166","Los Angeles - Brentwood",61.1742054347896,NA,NA
+"167","Los Angeles - Brookside",0,NA,NA
+"168","Los Angeles - Cadillac-Corning",19.3091579304908,NA,NA
+"169","Los Angeles - Canoga Park",4.56802002236198,NA,NA
+"170","Los Angeles - Carthay",60.4952173614924,NA,NA
+"171","Los Angeles - Central",200.521118580008,NA,NA
+"172","Los Angeles - Century City",28.5576021014377,NA,NA
+"173","Los Angeles - Chatsworth",120.061664657445,NA,NA
+"174","Los Angeles - Cheviot Hills",15.9150307054664,NA,NA
+"175","Los Angeles - Chinatown",9.55887991773179,NA,NA
+"176","Los Angeles - Cloverdale/Cochran",43.002291700628,NA,NA
+"177","Los Angeles - Crenshaw District",52.6566675146385,NA,NA
+"178","Los Angeles - Crestview",67.1593817961726,NA,NA
+"179","Los Angeles - Del Rey",52.3262261819292,NA,NA
+"180","Los Angeles - Downtown",84.9507104122357,NA,NA
+"181","Los Angeles - El Sereno",114.759997858234,NA,NA
+"182","Los Angeles - Exposition",5.6097550487327,NA,NA
+"183","Los Angeles - Faircrest Heights",3.49069404435292,NA,NA
+"184","Los Angeles - Florence-Firestone",203.354427687821,NA,NA
+"185","Los Angeles - Gramercy Place",42.7884380440778,NA,NA
+"186","Los Angeles - Green Meadows",92.2970873594036,NA,NA
+"187","Los Angeles - Harbor Gateway",85.1730627376423,NA,NA
+"188","Los Angeles - Harbor Pines",5.12831995287731,NA,NA
+"189","Los Angeles - Harvard Park",176.261555464759,NA,NA
+"190","Los Angeles - Historic Filipinotown",82.1459653024681,NA,NA
+"191","Los Angeles - Hollywood",197.063371448851,NA,NA
+"192","Los Angeles - Hollywood Hills",63.8058661104787,NA,NA
+"193","Los Angeles - Jefferson Park",24.3468581185818,NA,NA
+"194","Los Angeles - Lafayette Square",13.625812770771,NA,NA
+"195","Los Angeles - Lakeview Terrace",69.5966127977256,NA,NA
+"196","Los Angeles - Leimert Park",36.5797040899972,NA,NA
+"197","Los Angeles - Little Armenia",144.414427058461,NA,NA
+"198","Los Angeles - Little Bangladesh",86.2011424870181,NA,NA
+"199","Los Angeles - Little Tokyo",9.0846776844035,NA,NA
+"200","Los Angeles - Longwood",15.1056829221041,NA,NA
+"201","Los Angeles - Manchester Square",15.688681070394,NA,NA
+"202","Los Angeles - Mandeville Canyon",0.541232418067218,NA,NA
+"203","Los Angeles - Miracle Mile",33.1190464797434,NA,NA
+"204","Los Angeles - Mission Hills",26.1560203393673,NA,NA
+"205","Los Angeles - Pacific Palisades",35.1699938314461,NA,NA
+"206","Los Angeles - Palisades Highlands",0,NA,NA
+"207","Los Angeles - Palms",136.310365056228,NA,NA
+"208","Los Angeles - Park La Brea",12.2321311155613,NA,NA
+"209","Los Angeles - Pico-Union",350.154590401449,NA,NA
+"210","Los Angeles - Playa Del Rey",0.558320951744104,NA,NA
+"211","Los Angeles - Playa Vista",18.2954620055467,NA,NA
+"212","Los Angeles - Rancho Park",11.254729145855,NA,NA
+"213","Los Angeles - Regent Square",0,NA,NA
+"214","Los Angeles - Reseda",323.631079900441,NA,NA
+"215","Los Angeles - Reseda Ranch",20.0018032638008,NA,NA
+"216","Los Angeles - Reynier Village",8.19935283996613,NA,NA
+"217","Los Angeles - San Pedro",660.556050505748,NA,NA
+"218","Los Angeles - Sherman Oaks",21.6557975858683,NA,NA
+"219","Los Angeles - Silverlake",132.099684064413,NA,NA
+"220","Los Angeles - South Carthay",24.2689467412537,NA,NA
+"221","Los Angeles - South Park",179.625386369725,NA,NA
+"222","Los Angeles - St Elmo Village",25.7927105069184,NA,NA
+"223","Los Angeles - Sycamore Square",0,NA,NA
+"224","Los Angeles - Sylmar",39.9905763148998,NA,NA
+"225","Los Angeles - Temple-Beaudry",200.797118432432,NA,NA
+"226","Los Angeles - Tujunga",82.589697942503,NA,NA
+"227","Los Angeles - University Hills",7.59324266903007,NA,NA
+"228","Los Angeles - University Park",109.283113176347,NA,NA
+"229","Los Angeles - Vernon Central",329.205525630093,NA,NA
+"230","Los Angeles - West Hills",20.0259453629998,NA,NA
+"231","Los Angeles - West Vernon",269.569928646733,NA,NA
+"232","Los Angeles - Westlake",405.697910406955,NA,NA
+"233","Los Angeles - Wholesale District",182.986329419383,NA,NA
+"234","Unincorporated - Acton",7.94237837204717,NA,NA
+"235","Unincorporated - Agua Dulce",2.14239358689627,NA,NA
+"236","Unincorporated - Altadena",95.1609457040927,NA,NA
+"237","Unincorporated - Anaverde",0,NA,NA
+"238","Unincorporated - Angeles National Forest",0,NA,NA
+"239","Unincorporated - Arcadia",2.98123724867406,NA,NA
+"240","Unincorporated - Athens-Westmont",136.244993614526,NA,NA
+"241","Unincorporated - Athens Village",19.5729536931936,NA,NA
+"242","Unincorporated - Avocado Heights",12.3786890848336,NA,NA
+"243","Unincorporated - Azusa",33.6894819212888,NA,NA
+"244","Unincorporated - Bassett",34.3212723836143,NA,NA
+"245","Unincorporated - Bouquet Canyon",0,NA,NA
+"246","Unincorporated - Bradbury",0,NA,NA
+"247","Unincorporated - Canyon Country",25.0162803153051,NA,NA
+"248","Unincorporated - Castaic",98.9521746972611,NA,NA
+"249","Unincorporated - Cerritos",0,NA,NA
+"250","Unincorporated - Charter Oak",0,NA,NA
+"251","Unincorporated - Claremont",0,NA,NA
+"252","Unincorporated - Covina",34.4782265387815,NA,NA
+"253","Unincorporated - Covina (Charter Oak)",24.070774288017,NA,NA
+"254","Unincorporated - Del Rey",0,NA,NA
+"255","Unincorporated - Del Sur",0,NA,NA
+"256","Unincorporated - Desert View Highlands",3.71349035289907,NA,NA
+"257","Unincorporated - Duarte",9.56991287129009,NA,NA
+"258","Unincorporated - East Covina",0,NA,NA
+"259","Unincorporated - East La Mirada",8.40235359819972,NA,NA
+"260","Unincorporated - East Lancaster",0,NA,NA
+"261","Unincorporated - East Los Angeles",490.579142436949,NA,NA
+"262","Unincorporated - East Pasadena",0.0741093186704717,NA,NA
+"263","Unincorporated - East Rancho Dominguez",24.0892282890001,NA,NA
+"264","Unincorporated - East Whittier",5.63782319330777,NA,NA
+"265","Unincorporated - El Camino Village",10.0789302451466,NA,NA
+"266","Unincorporated - El Monte",0,NA,NA
+"267","Unincorporated - Elizabeth Lake",0,NA,NA
+"268","Unincorporated - Florence-Firestone",316.422724587541,NA,NA
+"269","Unincorporated - Franklin Canyon",0,NA,NA
+"270","Unincorporated - Glendora",0,NA,NA
+"271","Unincorporated - Hacienda Heights",71.7226328874395,NA,NA
+"272","Unincorporated - Harbor Gateway",0,NA,NA
+"273","Unincorporated - Hawthorne",3.78324593754459,NA,NA
+"274","Unincorporated - Hi Vista",0,NA,NA
+"275","Unincorporated - La Crescenta-Montrose",19.6349418371206,NA,NA
+"276","Unincorporated - La Habra Heights",0,NA,NA
+"277","Unincorporated - La Rambla",3.23858736814584,NA,NA
+"278","Unincorporated - La Verne",2.87111706675609,NA,NA
+"279","Unincorporated - Ladera Heights",15.0636995602345,NA,NA
+"280","Unincorporated - Lake Hughes",0,NA,NA
+"281","Unincorporated - Lake Los Angeles",21.7727749390457,NA,NA
+"282","Unincorporated - Lakewood",0,NA,NA
+"283","Unincorporated - Lennox",65.3320465371569,NA,NA
+"284","Unincorporated - Leona Valley",0.773634484571276,NA,NA
+"285","Unincorporated - Littlerock",9.53842748081422,NA,NA
+"286","Unincorporated - Littlerock/Juniper Hills",0,NA,NA
+"287","Unincorporated - Littlerock/Pearblossom",11.2754953225459,NA,NA
+"288","Unincorporated - Llano",0,NA,NA
+"289","Unincorporated - Miracle Mile",0,NA,NA
+"290","Unincorporated - Monrovia",13.7375387872183,NA,NA
+"291","Unincorporated - Newhall",0,NA,NA
+"292","Unincorporated - North Lancaster",3.8270652374587,NA,NA
+"293","Unincorporated - North Whittier",6.52758603763733,NA,NA
+"294","Unincorporated - Northeast San Gabriel",24.231631501388,NA,NA
+"295","Unincorporated - Palmdale",0,NA,NA
+"296","Unincorporated - Palos Verdes Peninsula",0,NA,NA
+"297","Unincorporated - Pearblossom/Llano",0,NA,NA
+"298","Unincorporated - Pellissier Village",0,NA,NA
+"299","Unincorporated - Placerita Canyon",0,NA,NA
+"300","Unincorporated - Pomona",0.58205946053905,NA,NA
+"301","Unincorporated - Quartz Hill",27.1240316664472,NA,NA
+"302","Unincorporated - Rancho Dominguez",10.3560409765456,NA,NA
+"303","Unincorporated - Roosevelt",0,NA,NA
+"304","Unincorporated - Rosewood",4.29418760217439,NA,NA
+"305","Unincorporated - Rosewood/East Gardena",0,NA,NA
+"306","Unincorporated - Rowland Heights",71.9113138424438,NA,NA
+"307","Unincorporated - San Clemente Island",0,NA,NA
+"308","Unincorporated - San Francisquito Canyon/Bouquet Canyon",0,NA,NA
+"309","Unincorporated - San Jose Hills",30.4938391534,NA,NA
+"310","Unincorporated - San Pasqual",0,NA,NA
+"311","Unincorporated - Sand Canyon",0,NA,NA
+"312","Unincorporated - Santa Catalina Island",0,NA,NA
+"313","Unincorporated - Saugus",0,NA,NA
+"314","Unincorporated - Saugus/Canyon Country",0,NA,NA
+"315","Unincorporated - South Antelope Valley",0,NA,NA
+"316","Unincorporated - South El Monte",1.15510483742868,NA,NA
+"317","Unincorporated - South San Gabriel",20.6763097152771,NA,NA
+"318","Unincorporated - South Whittier",86.0764532523264,NA,NA
+"319","Unincorporated - Southeast Antelope Valley",0,NA,NA
+"320","Unincorporated - Stevenson Ranch",21.7346690434242,NA,NA
+"321","Unincorporated - Sun Village",5.71575371964142,NA,NA
+"322","Unincorporated - Sunrise Village",0.320387149297284,NA,NA
+"323","Unincorporated - Val Verde",2.31213486258945,NA,NA
+"324","Unincorporated - Valencia",5.24831607449855,NA,NA
+"325","Unincorporated - Valinda",35.5311803375094,NA,NA
+"326","Unincorporated - Walnut Park",59.5193587848319,NA,NA
+"327","Unincorporated - West Antelope Valley",0,NA,NA
+"328","Unincorporated - West Carson",70.2656841637634,NA,NA
+"329","Unincorporated - West Chatsworth",0,NA,NA
+"330","Unincorporated - West Puente Valley",26.2637019714996,NA,NA
+"331","Unincorporated - West Rancho Dominguez",1.86845573540788,NA,NA
+"332","Unincorporated - West Whittier/Los Nietos",55.465596763818,NA,NA
+"333","Unincorporated - Westfield/Academy Hills",0,NA,NA
+"334","Unincorporated - Westhills",0,NA,NA
+"335","Unincorporated - White Fence Farms",1.65470925329144,NA,NA
+"336","Unincorporated - Whittier",4.98242100003643,NA,NA
+"337","Unincorporated - Whittier Narrows",0,NA,NA
+"338","Unincorporated - Willowbrook",91.6728900108362,NA,NA
+"339","Unincorporated - Wiseburn",9.06536497688547,NA,NA

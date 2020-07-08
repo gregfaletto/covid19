@@ -1,0 +1,3 @@
+Average daily temperature as reported at Bob Hope Airport Station in Burbank, CA.
+
+https://www.wunderground.com/history/monthly/us/ca/burbank/KBUR/date/2020-3

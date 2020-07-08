@@ -1,0 +1,7 @@
+source: http://publichealth.lacounty.gov/media/Coronavirus/locations.htm
+
+Data through 8 PM 5/31/20.
+
+Recent dates are incomplete due to due to lags in reporting.
+Cases reported by Episode Date which is the earliest existing value of: Date of Onset, Date of Diagnosis, Date of Death, Date Received, Specimen Collection Date. Deaths reported by Date of Death or Date Received if Date of Death is missing
+Number of daily cases will not match the number of newly reported Los Angeles County cases as episode date reflects date of underlying illness rather than date of report.

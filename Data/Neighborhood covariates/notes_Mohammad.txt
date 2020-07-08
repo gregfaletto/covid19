@@ -1,0 +1,21 @@
+heart, diabete, walking, and asthma:
+https://geohub.lacity.org/datasets/ladot::prevalence-of-adult-heart-disease-2013-2014
+https://geohub.lacity.org/datasets/ladot::prevalence-of-adult-diabetes-2013-2014
+https://geohub.lacity.org/datasets/ladot::physical-activity-walking-in-adults-2013-2014
+https://geohub.lacity.org/datasets/ladot::prevalence-of-adult-asthma-2013-2014
+
+Grocery_Store:
+https://data.lacity.org/A-Prosperous-City/Grocery-Stores/g986-7yf9
+
+All active businesses:
+https://data.lacity.org/A-Prosperous-City/Listing-of-Active-Businesses/6rrh-rzua
+
+parks, recreation, etc:
+https://data.lacity.org/A-Livable-and-Sustainable-City/Department-of-Recreation-and-Parks-Facility-and-Pa/dei3-2kfm
+
+neighborhood demographics:
+
+http://geohub.lacity.org/datasets/demographics-of-neighborhood-councils/data?page=8&selectedAttribute=density
+
+Income data:
+http://www.laalmanac.com/employment/em12c.php

@@ -1,0 +1,3 @@
+https://github.com/GRMDS/2020Covid19_challenge/blob/master/LA_County_Public_Health/LA_county_cases_city%26community.csv
+
+Source for non-residential settings, residential commercial settings: https://github.com/GRMDS/2020Covid19_challenge/tree/master/LA_County_Public_Health
